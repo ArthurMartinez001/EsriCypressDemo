@@ -1,0 +1,11 @@
+{
+    "testfiles": 
+    [
+        "ArcStorySignInPage.spec.js",
+        "ForgotUserName.spec.js",
+        "ForgotPassword.spec.js",
+        "Login.spec.js",
+        "CreateAStory.spec.js"
+
+    ]
+}
