@@ -6,3 +6,5 @@ This is a demo testing ArcGISStory website:
 3. 03ForgotPassword -- this test is to verify the "forgot password" button works and user is in the correct page. 
 4. 04Login -- this test is to verify user is able to login into create a story section. 
 5. 05CreateAStory -- this is a test workflow, the user signs in, creates a story, deletes the story and signs out. 
+
+Please note: tests .js files located in the "integration/ArcGISStoryMaps folder and functions located in the "support" folder. 
